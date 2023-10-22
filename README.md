@@ -18,7 +18,6 @@ Vercel: A platform for hosting applications, optimized for Next.js apps.
 Installation
 
 ## To run the app locally, follow these steps:
-
 Clone the repository:
 npm run dev
 Open http://localhost:3000 with your browser to see the result.
@@ -27,7 +26,9 @@ Open http://localhost:3000 with your browser to see the result.
 Hello World! I'm Bartek and I work with various technologies. This time, I decided to leave Vanilla HTML behind to broaden my horizons with tsx and next.js.
 
 ## Deployed with Vercel on the link below:
-LICENSE
+https://lezo-resort.vercel.app/
+
+## LICENSE
 2023 CodeCre8ors || all rights reserved
 
 Note: "Mazur" refers to a region in Poland called "Masuria" in English.
