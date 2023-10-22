@@ -7,8 +7,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Travell',
-  description: 'Travell app for Airbnb',
+  title: 'LezoResort',
+  description: 'Promotion app for Airbnb',
 }
 
 export default function RootLayout({
