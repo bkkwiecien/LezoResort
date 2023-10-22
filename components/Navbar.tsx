@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className="flexBetween max-container
     padding-container relative z-30 py-5">
         <Link href="/">
-            <Image src="/lezoresort-logo.png" alt="logo" width={150} height={80} />
+            <Image src="/Lezoresort-logo.png" alt="logo" width={150} height={80} />
         </Link>
 
         <ul className="hidden h-full gap-12 lg:flex">
