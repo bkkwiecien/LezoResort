@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# LEZORESORT Company Page
 
-## Getting Started
+## Description
+LezoResort is an application based on technologies like Typescript, Next.js, and TailwindCSS. It's a tool for showcasing exceptional accommodation places, in this case, the luxurious "Lezore" resort located in the heart of Masuria (a region in Poland). The app allows users to browse through a photo gallery and make quick reservations via Airbnb.
 
-First, run the development server:
+# Features
+    ## Gallery - Displaying high-quality photos from the resort. ##
+    ## Attractions - Description of available attractions at the location. ##
+    ## Pricing - Information about rental costs and availability. ##
+    ## Invest in Us - A section dedicated to potential investors. ##
+    ## Contact - Quick and easy way to get in touch with the owner or administrator. ##
 
-```bash
+## Technologies
+Typescript: A programming language that provides static typing for JavaScript.
+Next.js: A React framework enabling the creation of SEO-optimized applications and SSR.
+TailwindCSS: A utility-first CSS framework offering low-level utility classes for building user interfaces.
+Vercel: A platform for hosting applications, optimized for Next.js apps.
+Installation
+
+## To run the app locally, follow these steps:
+
+Clone the repository:
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Open http://localhost:3000 with your browser to see the result.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Learn More About Me
+Hello World! I'm Bartek and I work with various technologies. This time, I decided to leave Vanilla HTML behind to broaden my horizons with tsx and next.js.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Deployed with Vercel on the link below:
+LICENSE
+2023 CodeCre8ors || all rights reserved
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Note: "Mazur" refers to a region in Poland called "Masuria" in English.
+#
