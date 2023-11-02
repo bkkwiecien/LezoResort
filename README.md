@@ -28,6 +28,14 @@ Hello World! I'm Bartek and I work with various technologies. This time, I decid
 ## Deployed with Vercel on the link below:
 https://lezo-resort.vercel.app/
 
+## Or you can view screen shots
+![example_4](https://github.com/bkkwiecien/LezoResort/assets/89577599/9c971780-29cb-46af-809e-1bbdf6d3ad2d)
+![lezoresort-cover](https://github.com/bkkwiecien/LezoResort/assets/89577599/1fcca5cf-1582-4b5f-86fd-3b047bfe0473)
+![Zrzut ekranu 2023-11-2 o 22 41 10](https://github.com/bkkwiecien/LezoResort/assets/89577599/d31fe28a-4b4b-41a8-bc0b-699769ac4337)
+![Zrzut ekranu 2023-11-2 o 22 41 20](https://github.com/bkkwiecien/LezoResort/assets/89577599/8b975726-0578-45d6-889b-1fdafb271f31)
+![Zrzut ekranu 2023-11-2 o 22 41 33](https://github.com/bkkwiecien/LezoResort/assets/89577599/824bf515-c4d2-4223-aaa3-2f4fd6b048cd)
+
+
 ## LICENSE
 2023 CodeCre8ors || all rights reserved
 
